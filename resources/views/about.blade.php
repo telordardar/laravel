@@ -6,8 +6,8 @@
     <title>About Me</title>
 </head>
 <body>
-    <h2>Muhammad Azzam Aulawy</h2>
+    <h2>Haidar Faiz Putra Sulistyo</h2>
     <h2>Eksplore Hal Baru</h2>
-    <h3><a href="https://github.com/NotAndrew67" target="_blank" rel="noopener noreferrer">https://github.com/NotAndrew67</a></h3>
+    <h3><a href="https://github.com/telordardar" target="_blank" rel="noopener noreferrer">https://github.com/telordardar</a></h3>
 </body>
 </html>
