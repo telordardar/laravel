@@ -38,9 +38,13 @@
         </ul>
 
         <x-admin.menu-item
-    href="/admin/students"
-    label="Students"
-    icon='<path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"></path>' />
+            href="/admin/student"
+            label="Student"
+            icon='<path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"></path>' />
 
-    </div>
+        <x-admin.menu-item
+            href="/admin/classroom"
+            label="Classroom"
+            icon='<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4h16v12H4z M4 16l-2 4h20l-2-4"></path>' />
+        </div>
 </aside>
